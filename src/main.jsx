@@ -9,7 +9,7 @@ const profile = {
   phoneLink: "tel:+919363141857",
   email: "briju898@gmail.com",
   github: "https://github.com/Brijesh-M",
-  linkedin: "https://linkedin.com/in/Brijesh-M",
+  linkedin: "https://www.linkedin.com/in/brijesh-m-4b428b226/",
   resume: "/assets/Brijesh_M_Clean_Resume.pdf",
 };
 

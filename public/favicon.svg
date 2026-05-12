@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Brijesh M favicon">
+  <defs>
+    <linearGradient id="markGradient" x1="10" y1="8" x2="54" y2="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2ff4d2"/>
+      <stop offset="1" stop-color="#b9ff5c"/>
+    </linearGradient>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.184 0 0 0 0 0.957 0 0 0 0 0.824 0 0 0 0.45 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#040708"/>
+  <path d="M12 18C12 14.69 14.69 12 18 12h28C49.31 12 52 14.69 52 18v28C52 49.31 49.31 52 46 52H18C14.69 52 12 49.31 12 46V18Z" fill="#071011" stroke="url(#markGradient)" stroke-width="2"/>
+  <text x="32" y="38.5" text-anchor="middle" fill="url(#markGradient)" filter="url(#softGlow)" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="900" letter-spacing="0">BM</text>
+</svg>

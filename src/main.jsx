@@ -10,7 +10,7 @@ const profile = {
   email: "briju898@gmail.com",
   github: "https://github.com/Brijesh-M",
   linkedin: "https://www.linkedin.com/in/brijesh-m-4b428b226/",
-  resume: "/assets/Brijesh_M_Clean_Resume.pdf",
+  resume: "/assets/Brijesh_M_Resume_Final.pdf",
 };
 
 const experience = [
